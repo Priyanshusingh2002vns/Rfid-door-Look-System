@@ -1,1 +1,2 @@
 # Rfid-door-Look-System
+The RFID door lock system is an advanced security solution utilizing components such as RFID technology, an LCD display, a servo motor, and a breadboard. This system allows for secure access control, where an RFID tag authenticates entry, the LCD displays status messages, and the servo motor operates the locking mechanism, all assembled on a breadboard for efficient prototyping and functionality.
